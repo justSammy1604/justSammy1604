@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Thomas Mesquita</h1>
-<h3 align="center">Passionate in the field of Mathematics, Neural Networks,Modern Algorithmic Design and Soft Computing Techniques. I also want to learn and explore Machine Learning, Data Analysis, Data Mining and Artificial Intelligence Concepts in depth.</h3>
+<h3 align="center">A great enthusiastic in the field of Mathematics, Neural Networks,Modern Algorithmic Design and Soft Computing Techniques. Currently exploring the realm of Machine Learning, Data Analysis, Data Mining and Artificial Intelligence Concepts, Natural Language Processing as well as Image Processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justsammy1604&label=Profile%20views&color=0e75b6&style=flat" alt="justsammy1604" /> </p>
 
@@ -7,11 +7,10 @@
 
 - 🔭 I’m currently working on **a research project by the name of Data Valuation and many others.**
 
-- 🌱 I’m currently learning **languages such as Python and the many libraries Python offers.Keen on learning Testing Techniques and Cyber Security & Ethical Hacking Concepts in the future.**
+- 🌱 I’m currently learning **languages such as Python,R and understanding the applications of many libraries Python offers.Keen on learning the underlying concepts of Data Analysis, concepts of Natural Language Processing and Image Processing.**
 
-- 👯 I’m looking to collaborate on **research projects that involve Machine Learning and Artificial Concepts.**
+- 👯 I’m looking to collaborate on **research projects that involve medical, finance and business applications of Data Science, Artificial Intelligence and Machine Learning, Natural Language Processing and the application of LLMs in these sectors. **
 
-- 🤝 I’m looking for help with **Data Analysis and Data Mining Concepts along with AI&ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/justSammy1604](https://github.com/justSammy1604)
 
