@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Thomas Mesquita</h1>
-<h3 align="center">A great enthusiastic in the field of Mathematics, Neural Networks,Modern Algorithmic Design and Soft Computing Techniques. Currently exploring the realm of Machine Learning, Data Analysis, Data Mining and Artificial Intelligence Concepts, Natural Language Processing as well as Image Processing.</h3>
+<h3 align="center">A great enthusiastic in the field of Mathematics, Neural Networks,Modern Algorithmic Design and Soft Computing Techniques. Currently exploring the realm of Machine Learning, Data Analysis, Data Mining and Artificial Intelligence Concepts, Natural Language Processing and Image Processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justsammy1604&label=Profile%20views&color=0e75b6&style=flat" alt="justsammy1604" /> </p>
 
