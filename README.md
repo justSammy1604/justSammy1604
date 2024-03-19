@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justsammy1604" alt="justsammy1604" /></a> </p>
 
-- 🔭 I’m currently working on **a research project by the name of Data Valuation and many others.**
+- 🔭 I’m currently working on **a research project by the name of Data Valuation.**
 
 - 🌱 I’m currently learning **languages such as Python,R and understanding the applications of many libraries Python offers.Keen on learning the underlying concepts of Data Analysis, concepts of Natural Language Processing and Image Processing.**
 
