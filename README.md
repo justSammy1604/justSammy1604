@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel Thomas Mesquita</h1>
 <h3 align="center">A great enthusiasm in Mathematics, Neural Networks, Deep Learning and Soft Computing Techniques. Currently exploring the realm of Machine Learning, Data Analysis, Data Science and Artificial Intelligence Concepts, Natural Language Processing, Image Processing, LLMs and more..</h3>
 
+<a href="https://gitroll.io/profile/u2XtrDykd8QcQUQxq8R9vJQ1aNak1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u2XtrDykd8QcQUQxq8R9vJQ1aNak1" alt="GitRoll Profile Badge"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justsammy1604&label=Profile%20views&color=0e75b6&style=flat" alt="justsammy1604" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justsammy1604" alt="justsammy1604" /></a> </p>
