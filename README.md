@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Thomas Mesquita</h1>
+<h1 align="center">Hi 👋, I'm Samuel Thomas Mesquita</h1> 
 <h3 align="center">A great enthusiasm in Mathematics, Neural Networks, Deep Learning and Soft Computing Techniques. Currently exploring the realm of Machine Learning, Data Analysis, Data Science and Artificial Intelligence Concepts, Natural Language Processing, Image Processing, LLMs and more..</h3>
 
 <a href="https://gitroll.io/profile/u2XtrDykd8QcQUQxq8R9vJQ1aNak1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u2XtrDykd8QcQUQxq8R9vJQ1aNak1" alt="GitRoll Profile Badge"/></a>
