@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sammesquita1604@gmail.com or thesammesquita16049@gmail.com**
 
-- 📄 Know about my experiences [https://samuels-resume.tiiny.site/](https://samuels-resume.tiiny.site/)
+- 📄 Know about my experiences [https://samuels-resume.tiiny.site/](https://samuel-eng-resume.tiiny.site/)
 
 - ⚡ Fun fact **Love reading and listening to music all day, plus I am a part-time video gamer too.**
 
